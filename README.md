@@ -11,7 +11,7 @@ Este projeto é uma **Landing Page** moderna para um banco digital, com um desig
 
 ## 🖼️ Screenshot  
 
-![Screenshot da aplicação](Bank.png)  
+![Screenshot da aplicação](Banco.png)  
 
 
 ## 🚀 Tecnologias Utilizadas  
